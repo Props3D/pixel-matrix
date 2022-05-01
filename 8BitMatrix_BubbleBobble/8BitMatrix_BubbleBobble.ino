@@ -8,6 +8,8 @@
 #define DATA_PIN 3  // Solder this to the DATA IN pin of the LED Matrix
 CRGB leds[NUM_LEDS];
 
+// Character Arrays, Generate with 'LCD Image Converter' using 24bit color, odd lines are forward, even lines are backward, two frames per character for animation
+
 const long BubbleBobble_Bobblun1[] PROGMEM =
 {
 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x00ffff, 0x00ffff, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 0x0A1C37, 
