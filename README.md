@@ -15,7 +15,7 @@ Note that prerelease models have been tested and work, but do not come with inst
 * Download released designs: https://www.thingiverse.com/props3dpro/designs
 
 
-## Parts
+## Tutorial Video
 
 * TBD
 
